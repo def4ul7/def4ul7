@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/y4-5H0">
+  <a href="https://github.com/def4ul7">
     <img src="https://avatars.githubusercontent.com/u/160359868" width="225" height="225" alt="OmniTotal">
   </a>
 </p>
@@ -17,17 +17,17 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br>
-  <a href="https://github.com/y4-5H0">
-    <img alt="GitHub Profile Details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true">
+  <a href="https://github.com/def4ul7">
+    <img alt="GitHub Profile Details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=def4ul7&count_private=true&theme=github_dark&hide_border=true">
   </a>
-  <a href="https://github.com/y4-5H0">
-    <img alt="GitHub Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
+  <a href="https://github.com/def4ul7">
+    <img alt="GitHub Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=def4ul7&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
   </a>
-  <a href="https://github.com/search?q=user:y4-5H0&type=code">
-    <img alt="Top Languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
+  <a href="https://github.com/search?q=user:def4ul7&type=code">
+    <img alt="Top Languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=def4ul7&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
   </a>
-  <a href="https://github.com/search?q=author:y4-5H0&type=commits">
-    <img alt="GitHub Streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=y4-5H0&theme=github-dark&hide_border=true&stroke=718F97&ring=2EB398&fire=2EB398&currStreakNum=C6CDCB&sideNums=C6CDCB&currStreakLabel=2EB398&sideLabels=C6CDCB&dates=C6CDCB">
+  <a href="https://github.com/search?q=author:def4ul7&type=commits">
+    <img alt="GitHub Streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=def4ul7&theme=github-dark&hide_border=true&stroke=718F97&ring=2EB398&fire=2EB398&currStreakNum=C6CDCB&sideNums=C6CDCB&currStreakLabel=2EB398&sideLabels=C6CDCB&dates=C6CDCB">
   </a>
 </details>
 
@@ -58,4 +58,5 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
 
 ### 👁️‍🗨️ Visitors
 
-<img src="https://profile-counter.glitch.me/y4-5H0/count.svg" alt="Visitor Count">
+<img src="https://profile-counter.glitch.me/def4ul7/count.svg" alt="Visitor Count">
+
